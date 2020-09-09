@@ -230,4 +230,5 @@ void main(int argc, char *argv[]) {
   
   criaArquivoLista(listaFinal, "ordenado.csv");
   
+  
 }
