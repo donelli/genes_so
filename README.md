@@ -1,4 +1,4 @@
-## Descrição:
+# Genes SO
 
 Programa le e ordena um arquivo CSV utilizando multiplas threads. (Arquivo csv esta zipado junto com o projeto)
 
